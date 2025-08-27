@@ -130,6 +130,15 @@
     transform: translateY(-100px);
 
 }
+.tomato{
+    
+    background-image: url("http://b.zmtcdn.com/data/o2_assets/9ef1cc6ecf1d92798507ffad71e9492d1742892584.png");
+    background-size: cover;
+    height: 80px;
+    width: 100px;
+    /* transform: translateY(-100px); */
+}
+
 .side{
     display: flex;
     justify-content:space-evenly ;
