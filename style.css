@@ -1,7 +1,7 @@
 .nav{
     background-image: url("https://b.zmtcdn.com/web_assets/81f3ff974d82520780078ba1cfbd453a1583259680.png");
     height: 75vh;
-    width: 100vw;
+    width: 900vw;
     display: flex;
     flex-direction: column;
     align-items: center;
